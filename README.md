@@ -16,15 +16,16 @@
 
 ## 🌟 Project Showcase:
 <p align="center">
+   <a href="https://github.com/shreyaMadeshiya/AI-Code-Reviewer">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaMadeshiya&repo=AI-Code-Reviewer&theme=dark" />
+</a>
   <a href="https://github.com/shreyaMadeshiya/Learning_Management_System">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaMadeshiya&repo=Learning_Management_System&theme=dark" />
   </a>
   <a href="https://github.com/shreyaMadeshiya/AIRLINE-BOOKING-SYSTEM">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaMadeshiya&repo=AIRLINE-BOOKING-SYSTEM&theme=dark" />
   </a>
-  <a href="https://github.com/shreyaMadeshiya/Pokedex">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyaMadeshiya&repo=Pokedex&theme=dark" />
-  </a>
+
 </p>
 
 ---
